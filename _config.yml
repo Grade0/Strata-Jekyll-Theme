@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name: Your Name
+  name: Davide Chen
   email: your-email@domain.com
   twitter: # twitter username without the @ symbol
 
@@ -41,10 +41,11 @@ webmaster_verifications:
 # CloudCannon
 
 social_icons:
-  - Facebook
+  - Facebook: https://www.facebook.com/davide.chen.31
   - Google Plus
-  - Instagram
-  - LinkedIn
+  - Instagram: https://www.instagram.com/no_problem_zz/
+  - LinkedIn: https://www.linkedin.com/in/davide-chen-89aa02145/
+  - Github: https://github.com/Grade0
   - Pinterest
   - Tumblr
   - Twitter
