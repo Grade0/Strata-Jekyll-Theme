@@ -1,6 +1,7 @@
 ---
 layout: post
-title: CV / Resume
+title:
 categories:
 date:
+
 ---
