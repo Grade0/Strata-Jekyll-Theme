@@ -3,10 +3,5 @@ layout: post
 title: About me
 
 ---
-<img src="/images/placeholder-big.jpg" class="fit image"> Sono un ragazzo IBC (Italian Born Chinese) nato a Roma e cresciuto a Napoli, dove ho conseguito il diploma in Ragioneria prima di spostarmi a Pisa per l’università. Mi definisco una persona intraprendente con spiccata voglia di vedere il mondo, affrontare l’ignoto e perennemente curioso, nonché un ragazzo socievole e pronto a mettersi in gioco..
-
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
-
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
-
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+Sono un ragazzo IBC (Italian Born Chinese) nato a Roma e cresciuto a Napoli, dove ho conseguito il diploma in Ragioneria prima di spostarmi a Pisa per l’università. Mi definisco una persona intraprendente con spiccata voglia di vedere il mondo, affrontare l’ignoto e perennemente curioso, nonché un ragazzo socievole e pronto a mettersi in gioco..
+<img src="/images/placeholder-big.jpg" class="fit image">
