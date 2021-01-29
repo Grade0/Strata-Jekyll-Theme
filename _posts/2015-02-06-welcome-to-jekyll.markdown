@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CV/Resume
+title: CV / Resume
 date: 2015-02-06T14:37:44.000Z
 categories: update
 ---
