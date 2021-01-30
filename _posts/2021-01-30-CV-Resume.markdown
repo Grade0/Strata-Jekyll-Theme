@@ -2,7 +2,7 @@
 layout: post
 title: Curriculum
 tags: [about, curriculum]
-date: 2018-11-02
+date: 2021-30-01
 comments: false
 ---
 
