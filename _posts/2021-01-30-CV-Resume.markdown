@@ -6,7 +6,7 @@ date: 2021-01-30
 comments: false
 ---
 
-<p>My name is Davide Chen, I was born on 2nd February 1997 in Rome<br>
+<p>My name is Davide Chen, I was born on 2<sup>nd</sup> February 1997 in Rome<br>
     I'm currently enrolled in the Bachelor Degree in Computer Science at the University of Pisa<br>
     I love programming, travelling, photography and self-development.
     </p>
