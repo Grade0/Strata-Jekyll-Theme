@@ -5,7 +5,23 @@ date: 2021-01-30
 ---
 I am an IBC (Italian Born Chinese) guy born in Rome and raised in Naples, where I graduated in Accounting from High School before moving to Pisa for the university. I define myself as an entreprising person with a strong desire to see the world, face the unknown and perpetually curious, as well as sociable person who is always ready to get involed.
 
+<div class="twc_row">
+  <div class="twc_column">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="twc_column">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+
 ### Interests <span style="margin-left:100px; text-align:center">Soft skills</span>
+Photography
+Travelling
+Outdoor excurtios
+Self-development
 
 <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" title="Phoenix Park, Dublin - Ireland" class="fit image">
 
