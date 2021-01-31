@@ -60,7 +60,7 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
 </div>
 <p></p>
 
-## <font color="#5B9BD5"><u>Programming Skills</u></font>
+<h2 style="font-size: 28px; color="#5B9BD5 padding-bottom: 5px";><u>Programming Skills</u></h2>
 
 #### C
 
