@@ -2101,6 +2101,11 @@
 		float: left;
 		 padding: 10px;
 	}
+	.cv_column3 {
+		float: right;
+		 width: 100px;
+		 padding: 10px;
+	}
 
 	.twc_column {
 		 float: left;
