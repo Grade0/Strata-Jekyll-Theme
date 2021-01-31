@@ -18,21 +18,18 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
 ## <font color="#5B9BD5"><u>Education</u></font>
     
     
-<div class="row">
+<div class="twc_row">
   <div class="cv_column1">
     <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/pl_logo/unipi_logo.svg" style="width:50px">
   </div>
   <div class="cv_column2">
-    <h4>Università di Pisa</h4> <span style="float:right; text-align:center">Now</span> 
+    <h4>Università di Pisa</h4>
     <span>Bachelor Degree in Computer Science</span>
   </div>
+  <div class="cv_column3">
+      <span><b>Now</b></span>
+  </div> 
 </div>   
-    
-    
-    
-#### Università di Pisa <span style="float:right; text-align:center">Now</span>
-
-Bachelor Degree in Computer Science
 
 
 #### University College Dublin <span style="float:right; text-align:center">2020</span>
