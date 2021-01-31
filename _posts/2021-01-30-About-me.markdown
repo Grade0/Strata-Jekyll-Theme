@@ -7,21 +7,21 @@ I am an IBC (Italian Born Chinese) guy born in Rome and raised in Naples, where 
 
 <div class="twc_row">
   <div class="twc_column">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+    <h2>Hobby/Interests</h2>
+    <p>Photography</p>
+    <p>Travelling</p>
+    <p>Outdoor excurtions</p>
+    <p>Languages</p>
   </div>
   <div class="twc_column">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <h2>Soft skills</h2>
+    <p>Team work</p>
+    <p>Social skills</p>
+    <p>Precision and attention to detail</p>
+    <p>Learning</p>
   </div>
 </div>
 
-
-### Interests <span style="margin-left:100px; text-align:center">Soft skills</span>
-Photography
-Travelling
-Outdoor excurtios
-Self-development
 
 <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/deer.jpg" title="Phoenix Park, Dublin - Ireland" class="fit image">
 
