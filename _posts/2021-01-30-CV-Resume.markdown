@@ -40,7 +40,7 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
   </div>
   <div class="cv_column2">
     <h3>University College Dublin</h3>
-    <span>ERASMUS+ Echange Program</span>
+    <span>ERASMUS+ Exchange Program</span>
   </div>
   <div class="cv_column3">
       <span><b>2020</b></span>
