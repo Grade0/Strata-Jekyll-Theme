@@ -2092,6 +2092,16 @@
 
 /* Two Equal Columns */
 	
+	.cv_column1 {
+		float: left;
+		 width: 80px;
+		 padding: 10px;
+	}
+	.cv_column2 {
+		float: left;
+		 padding: 10px;
+	}
+
 	.twc_column {
 		 float: left;
 		 width: 50%;
