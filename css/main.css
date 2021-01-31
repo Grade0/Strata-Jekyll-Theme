@@ -2873,6 +2873,10 @@
 				font-size: 12pt;
 			}
 
+			.ed_no_logo {
+				display: none;
+			}
+
 	}
 
 /* Large */
@@ -2916,6 +2920,10 @@
 				max-width: none;
 				padding: 6em 3em 3em 3em;
 				width: calc(100% - 30%);
+			}
+
+			.ed_no_logo {
+				display: none;
 			}
 
 	}
@@ -2999,6 +3007,10 @@
 				width: 100%;
 			}
 
+			.ed_no_logo {
+				display: none;
+			}
+
 	}
 
 /* Small */
@@ -3077,6 +3089,10 @@
 					margin-top: -1em;
 				}
 
+			.ed_with_logo {
+				display: none;
+			}
+
 	}
 
 /* XSmall */
@@ -3135,6 +3151,10 @@
 				line-height: 2.25em;
 				margin-left: 0;
 				padding-left: 0;
+			}
+
+			.ed_with_logo {
+				display: none;
 			}
 
 	}
