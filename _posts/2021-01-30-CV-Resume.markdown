@@ -30,7 +30,7 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
       <span><b>Now</b></span>
   </div> 
 </div>   
-<br><br>
+<br>
 
 <div class="twc_row">
   <div class="cv_column1">
@@ -44,7 +44,7 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
       <span><b>2020</b></span>
   </div> 
 </div>   
-<br><br>
+<br>
 
 <div class="twc_row">
   <div class="cv_column1">
@@ -58,7 +58,7 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
       <span><b>2016</b></span>
   </div> 
 </div> 
-<br><br>
+<br>
 
 #### University College Dublin <span style="float:right; text-align:center">2020</span>
 
