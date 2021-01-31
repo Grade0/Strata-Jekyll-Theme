@@ -21,46 +21,46 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
 <p></p>
 
 <div class="ed_with_logo">
-    <div class="twc_row">
-      <div class="cv_column1">
-        <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/pl_logo/unipi_logo.svg" style="width:55px;">
-      </div>
-      <div class="cv_column2">
-        <h3>Università di Pisa</h3>
-        <span>Bachelor Degree in Computer Science</span>
-      </div>
-      <div class="cv_column3">
-          <span><b>Now</b></span>
-      </div> 
-    </div>
-    <p></p>
+<div class="twc_row">
+  <div class="cv_column1">
+    <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/pl_logo/unipi_logo.svg" style="width:55px;">
+  </div>
+  <div class="cv_column2">
+    <h3>Università di Pisa</h3>
+    <span>Bachelor Degree in Computer Science</span>
+  </div>
+  <div class="cv_column3">
+      <span><b>Now</b></span>
+  </div> 
+</div>
+<p></p>
 
-    <div class="twc_row">
-      <div class="cv_column1">
-        <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/pl_logo/ucd_logo.svg" style="width:55px;">
-      </div>
-      <div class="cv_column2">
-        <h3>University College Dublin</h3>
-        <span>ERASMUS+ Exchange Program</span>
-      </div>
-      <div class="cv_column3">
-          <span><b>2020</b></span>
-      </div> 
-    </div>
-    <p></p>
+<div class="twc_row">
+  <div class="cv_column1">
+    <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/pl_logo/ucd_logo.svg" style="width:55px;">
+  </div>
+  <div class="cv_column2">
+    <h3>University College Dublin</h3>
+    <span>ERASMUS+ Exchange Program</span>
+  </div>
+  <div class="cv_column3">
+      <span><b>2020</b></span>
+  </div> 
+</div>
+<p></p>
 
-    <div class="twc_row">
-      <div class="cv_column1">
-        <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/pl_logo/logo-repubblica.svg" style="width:55px;">
-      </div>
-      <div class="cv_column2">
-        <h3>I.S.I.S. Einaudi-Giordano</h3>
-        <span>High School Diploma in Administration, Finance and Marketing</span>
-      </div>
-      <div class="cv_column3">
-          <span><b>2016</b></span>
-      </div> 
-    </div>
+<div class="twc_row">
+  <div class="cv_column1">
+    <img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/pl_logo/logo-repubblica.svg" style="width:55px;">
+  </div>
+  <div class="cv_column2">
+    <h3>I.S.I.S. Einaudi-Giordano</h3>
+    <span>High School Diploma in Administration, Finance and Marketing</span>
+  </div>
+  <div class="cv_column3">
+      <span><b>2016</b></span>
+  </div> 
+</div>
 </div>
 
 <div class="ed_no_logo"> 
