@@ -73,7 +73,7 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
 <span>ERASMUS+ Exchange Program</span>
 
 
-<h4>I.S.I.S. Einaudi-Giordano<h4> <span style="float:right; text-align:center"><b>2016</b></span>
+<h4>I.S.I.S. Einaudi-Giordano</h4> <span style="float:right; text-align:center"><b>2016</b></span>
 <span>High School Diploma in Administration, Finance and Marketing</span>
 
 </div>
