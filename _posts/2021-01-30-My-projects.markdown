@@ -35,7 +35,7 @@ layout: post
   
 #### "Unix Programming" Class Assignments - ERASMUS+ Exchange @ University College Dublin
 
-[[GitHub](https://github.com/Grade0/UP_Assignments]
+[[GitHub](https://github.com/Grade0/UP_Assignments)]
 
 <br>
 <hr>
@@ -44,7 +44,7 @@ layout: post
 <p></p>
 #### An easy command-line Tic-Tac-Toe game
 
-[[GitHub](https://github.com/Grade0/TicTacToe-Game]
+[[GitHub](https://github.com/Grade0/TicTacToe-Game)]
 
 <br>
 <hr>
