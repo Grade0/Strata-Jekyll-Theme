@@ -13,7 +13,7 @@ layout: post
 #### <u>"Programming 2" Class Project II - University of Pisa</u>
 - <b>Programming language:</b> OCaML
 - <b>Target:</b> The project aims to apply the concepts and techniques of Functional programming examined during the course.
-- <b>Description:</b> Design and development of an interpreter in Ocaml that allows you to manipulate dictionaries in addition to primitive data types. [[GitHub](https://github.com/Grade0/PR2_Project-OCaML)]
+- <b>Description:</b> Design and development of an interpreter in Ocaml that allows you to manipulate dictionaries in addition to primitive data types. [...] [[GitHub](https://github.com/Grade0/PR2_Project-OCaML)]
  
 #### <u>"Web Design" Class Project - ERASMUS+ Exchange @ University College Dublin</u>
 - <b>Programming language:</b> HTML, CSS, JavaScript, PHP
