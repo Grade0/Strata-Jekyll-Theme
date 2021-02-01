@@ -81,6 +81,20 @@ My curriculum is also available in [PDF](https://github.com/Grade0/grade0.github
 
 <hr>
 
+<h2 style="font-size: 26px; color:#5B9BD5;">Language skills</h2>
+<p></p>
+
+**Italian:** Native speaker
+
+**Chinese (Mandarin):** Native Speaker
+
+**English:** B2/C1
+
+**Spanish:** A2/B1
+
+<hr>
+
+
 <h2 style="font-size: 26px; color:#5B9BD5;">Programming skills</h2>
 <p></p>
 
