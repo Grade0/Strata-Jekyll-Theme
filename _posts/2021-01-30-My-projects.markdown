@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My project
+title: My Project
 date: 2021-02-01
 ---
 
