@@ -25,6 +25,7 @@ The following are some of my projects and assignments that I carried out during 
 - <b>Programming language:</b> HTML, CSS, JavaScript, PHP
 - <b>Target:</b> Design and implement a website
 - <b>Description:</b> [[PDF](https://github.com/Grade0/WD_Project/raw/main/COMP20030-Project-2020.pdf)] [[GitHub](https://github.com/Grade0/WD_Project)]
+- <b>See the [[DEMO](https://davidechen.it/WD_Project/)]</b>
  
 #### <u>"Database Laboratory" Class Team Project - University of Pisa</u>
 - <b>Programming language:</b> ORACLE PL/SQL
