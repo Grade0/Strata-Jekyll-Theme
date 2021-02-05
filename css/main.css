@@ -1126,11 +1126,6 @@
 			padding: 1.5em 0 0 1.5em;
 		}
 
-		/* image in About */
-		.row > .col-12-xsmall {
-			width: 100%;
-		}
-
 		.row.uniform {
 			margin: -1.5em 0 -1px -1.5em;
 		}
@@ -2127,12 +2122,6 @@
   		display: table;
   		clear: both;
 	}
-
-	/* Double column image in About */
-	.row > .col-6 {
-			width: 50%;
-	}
-
 	
 
 /* List */
@@ -3217,10 +3206,20 @@
  		.ed_with_logo {
  			display: none;
  		}
+
+ 		/* image in About */
+		.row > .col-12-xsmall {
+			width: 100%;
+		}
  	}
 
  	@media screen and (min-width: 737px) {
  		.ed_no_logo {
  			display: none;
  		}
+
+ 		/* Double column image in About */
+		.row > .col-6 {
+			width: 50%;
+		}
  	}
