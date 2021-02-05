@@ -32,11 +32,7 @@ I am an IBC (Italian Born Chinese) guy born in Rome and raised in Naples, where 
     </article>
     <article class="col-6 col-12-xsmall work-item">
       <a href="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/cairo1.jpg" class="image fit thumb"><img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/cairo1.jpg" alt="Pyramid of Giza, Cairo - EGYPT" /></a>
-      <p>Pyramid of Giza, Cairo - EGYPT</p>
-    </article>
-    <article class="col-6 col-12-xsmall work-item">
-      <a href="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/cairo2.jpg" class="image fit thumb"><img src="https://github.com/Grade0/grade0.github.io/raw/gh-pages/images/cairo2.jpg" alt="Pyramid of Giza, Cairo - EGYPT" /></a>
-      <p>Pyramid of Giza, Cairo - EGYPT</p>
+      <h3>Pyramid of Giza, Cairo - EGYPT</h3>
     </article>
    </div>
 </section>
