@@ -36,6 +36,6 @@ I am an IBC (Italian Born Chinese) guy born in Rome and raised in Naples, where 
   </article>
  </div>
 
-<p></p>
+<br>
 <hr>
-<p></p>
+<br>
