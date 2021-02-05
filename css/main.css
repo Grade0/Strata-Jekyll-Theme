@@ -1126,6 +1126,11 @@
 			padding: 1.5em 0 0 1.5em;
 		}
 
+		/* image in About */
+		.row > .col-12-xsmall {
+			width: 100%;
+		}
+
 		.row.uniform {
 			margin: -1.5em 0 -1px -1.5em;
 		}
@@ -1335,11 +1340,6 @@
 
 		.row {
 			margin: 0 0 -1px -1.5em;
-		}
-
-		/* image in About */
-		.row > .col-12-xsmall {
-			width: 100%;
 		}
 
 		.row.uniform > * {
