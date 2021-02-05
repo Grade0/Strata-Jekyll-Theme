@@ -23,7 +23,7 @@ I am an IBC (Italian Born Chinese) guy born in Rome and raised in Naples, where 
     </ul>
   </div>
 </div>
-<br>
+<p></p>
 
 <section id="two">
   <div class="row">
