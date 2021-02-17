@@ -32,7 +32,7 @@ I am an IBC (Italian Born Chinese) guy born in Rome and raised in Naples, where 
     <li>Outdoor excurtions</li>
     <li>Languages</li>
   </ul>
-  <br>
+  <p></p>
   <h2 style="font-size: 1.2em"> Soft skills: </h2>
   <ul>
     <li>Team work</li>
