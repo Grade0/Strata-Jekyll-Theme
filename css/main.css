@@ -3231,7 +3231,7 @@
  	}
 
  	@media screen and (min-width: 370px) {
- 		.skills_single_columns {
+ 		.skills_single_column {
  			display: none;
  		}
  	}
